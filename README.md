@@ -39,20 +39,20 @@ It provides:
 
 ## Project structure
 
-Student-performance-analyzer/
-│
-├── Data/
-│   ├── student-mat.csv
-│   ├── new_students.csv
-│   └── predicted_G3.csv
-│
-├── src/
-│   ├── main.py
-│   └── batch_predict.py
-│
-├── .gitignore
-├── LICENSE
-└── README.md
+Student-performance-analyzer
+-│
+-├── Data/
+-│   ├── student-mat.csv
+-│   ├── new_students.csv
+-│   └── predicted_G3.csv
+-│
+-├── src/
+-│   ├── main.py
+-│   └── batch_predict.py
+-│
+-├── .gitignore
+-├── LICENSE
+-└── README.md
  
 ## How to run
 
