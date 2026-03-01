@@ -54,6 +54,7 @@ Student-performance-analyzer/
 ├── .gitignore
 ├── LICENSE
 └── README.md
+```
 
 ## How to run
 
@@ -69,4 +70,4 @@ The Linear Regression model achieved an R² score of approximately 0.78, meaning
 
 ## Author
 
-Anmol Gupta
+Anmol Gupta 
