@@ -37,9 +37,10 @@ It provides:
 - Seaborn
 - scikit-learn
 
-## Project structure
+## Project Structure
 
-Student-performance-analyzer
+```text
+Student-performance-analyzer/
 │
 ├── Data/
 │   ├── student-mat.csv
@@ -53,7 +54,7 @@ Student-performance-analyzer
 ├── .gitignore
 ├── LICENSE
 └── README.md
- 
+
 ## How to run
 
 **Run Main Script (Interactive Mode)**
