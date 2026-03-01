@@ -37,14 +37,9 @@ It provides:
 - Seaborn
 - scikit-learn
 
-### Install dependencies
+## Project structure
 
-```bash
-pip install pandas matplotlib seaborn scikit-learn
- 
- ###Project structure
-
- Student-performance-analyzer/
+Student-performance-analyzer/
 │
 ├── Data/
 │   ├── student-mat.csv
@@ -58,6 +53,19 @@ pip install pandas matplotlib seaborn scikit-learn
 ├── .gitignore
 ├── LICENSE
 └── README.md
+ 
+## How to run
 
-![alt text](image.png)
-![alt text](image-1.png)
+**Run Main Script (Interactive Mode)**
+python src/main.py
+
+**Run batch predictions**
+python src/batch-predict.py
+
+## Model performance
+
+The Linear Regression model achieved an R² score of approximately 0.78, meaning it explains about 78% of the variance in students' final grades.
+
+## Author
+
+Anmol Gupta
