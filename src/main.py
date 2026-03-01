@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ------------------------------
 # Student Performance Analyzer
 # ------------------------------
@@ -108,3 +109,8 @@ if predictions:
     print("\nSummary of all predictions:")
     summary_df = pd.DataFrame(predictions)
     print(summary_df)
+=======
+import pandas as pd
+
+print("Student Performance Analyzer Started !!!!")
+>>>>>>> e506127f38f649f9f2d3ded40f5f8624d5cb664a
